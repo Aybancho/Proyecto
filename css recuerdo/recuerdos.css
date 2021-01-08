@@ -1,0 +1,121 @@
+.p
+{
+    position: absolute;
+    margin-left: 43%;
+    background-color: tomato;
+}
+body
+{
+    background-color: rgb(235, 52, 225);
+    background-image: url(https://www.freepik.es/vector-gratis/fondo-lluvia-pixeles-abstractos-gradiente_6144464.htm);
+    
+}
+
+.texto
+{
+    position: absolute;
+    margin-top: 30%;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 4ch;
+}
+
+.direccion
+{
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 40%;
+  
+}
+
+a{
+    font-family: 'Bungee', cursive;
+       padding-right: 150px;
+       color: black;
+}
+#imagenes{
+	width:220px;
+    height:150px;
+    
+}
+.primis
+{
+    float: left;
+}
+#primero{
+    
+    width: 30%;
+    margin-top: 400px;
+    margin-left: 5%;
+    
+   
+}
+#uno
+{
+    position: absolute;
+    margin-top: 29%;
+    margin-left: 2%;
+    
+}
+
+#r
+{
+margin-left: 5%;
+}
+
+#segundo{
+    
+    width: 30%;
+margin-top: 150px;    
+margin-left: 5%;   
+}
+
+#dos
+{
+    position: absolute;
+    margin-top: 11%;
+    margin-left: 2%;
+    
+}
+#r2
+{
+margin-left: 5%;
+}
+
+
+#tercero{
+    
+    width: 30%;
+    margin-top:150px;
+    margin-left: 5%;
+}
+
+#tres
+{
+    position: absolute;
+    margin-top: 11%;
+    margin-left: 2%;
+    
+}
+#r3
+{
+margin-left: 5%;
+}
+
+#cuarto{
+    
+    width: 30%;
+    margin-top: 150px;
+    margin-left: 5%; 
+}
+
+#cuatro
+{
+    position: absolute;
+    margin-top: 11%;
+    margin-left: 2%;
+    
+}
+#r4
+{
+margin-left: 5%;
+}

@@ -1,0 +1,45 @@
+.p
+{
+    position: absolute;
+    margin-left: 43%;
+    background-color: tomato;
+}
+body
+{
+    background-color: turquoise;
+    background-image: url(https://www.freepik.es/vector-gratis/fondo-lluvia-pixeles-abstractos-gradiente_6144464.htm);
+    
+}
+
+.texto
+{
+    position: absolute;
+    margin-top: 30%;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 4ch;
+}
+
+.direccion
+{
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 30%;
+  
+}
+
+a{
+    font-family: 'Bungee', cursive;
+       padding-right: 150px;
+       color: black;
+}
+#imagenes{
+	width:220px;
+    height:150px;
+    
+}
+
+#correo
+{
+    position: absolute;
+    margin-top: 70%;
+}
